@@ -1,0 +1,28 @@
+typography_spectrum: 0.10208436812523126
+color:
+  brandStrength: 0.5008344654648537
+  lightness: 0.6361246518778735
+  saturation: 0.08927819812089427
+  rhythmicContrast: 0.7049619468708181
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+github: true
+layout_spectrum: 0.10033294234544703
+analytics:
+  google: UA-88285045-1
+author:
+  name: Shaine Mata
+  email: shaine@shainemata.com
+  url: 'http://shainemata.com'
+name: fireblog
+navigation:
+  - name: Blogroll
+    id: 2132adb1-4bbf-4b25-8a79-047a82ac9e20
+    type: content
+title: FIRE Blog Gallery
+content: []
+description: Personal Finance Inspiration
