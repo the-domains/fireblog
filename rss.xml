@@ -4,9 +4,16 @@
         <description><![CDATA[FIRE Blog Gallery]]></description>
         <link>http://fireblog.gallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Feb 2017 04:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2017 00:24:19 GMT</lastBuildDate>
         <atom:link href="http://fireblog.gallery/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Feb 2017 04:12:34 GMT</pubDate>
+        <pubDate>Mon, 13 Feb 2017 00:23:36 GMT</pubDate>
+        <item>
+            <title><![CDATA[Extreme Ownership | Jocko Willink | TEDxUniversityofNevada]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fljqra3BcqWM%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dljqra3BcqWM&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fljqra3BcqWM%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=ljqra3BcqWM</link>
+            <guid isPermaLink="false">494fa3db-fdf5-4a51-8371-f19f4aabfab4</guid>
+            <pubDate>Mon, 13 Feb 2017 00:23:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Would You Buy It Again? | The Minimalists]]></title>
             <description><![CDATA[<article><h1>Would You Buy It Again? | The Minimalists</h1><p>That shirt you haven&apos;t worn in months. That box of trinkets in the garage. That closet, that basement, that storage locker, all brimming with old stuff. What do you own that you don&apos;t enjoy? If you could start over, would you buy those items again today?</p><img src="http://www.theminimalists.com/files/2017/01/Pipe-Worker.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.bloomberg.com/news/articles/2016-03-24/young-broke-and-scared-of-the-irs-the-millennial-tax-trap</link>
             <guid isPermaLink="false">ff3e6809-5a36-46c1-9d84-d352ea6538fb</guid>
             <pubDate>Mon, 28 Nov 2016 03:11:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The One Thing Standing Between You and Being a Successful Millionaire]]></title>
-            <description><![CDATA[<article><h1>The One Thing Standing Between You and Being a Successful Millionaire</h1><p>If you are like most people, there always seems to be something that mysteriously appears between you and your dreams. Say you really want to write a book, but never seem to get around to it. The reason is that whatever gets in the way-whether its cleaning your closets, checking</p><img src="http://www.mybestadvisors.com/wp-content/uploads/2016/07/6F81345A88.jpg"></article>]]></description>
-            <link>http://www.mybestadvisors.com/one-thing-standing-between-you-and-success/</link>
-            <guid isPermaLink="false">d6543bca-4070-425e-b4bc-123140436dcb</guid>
-            <pubDate>Mon, 28 Nov 2016 03:11:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
