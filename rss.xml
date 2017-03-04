@@ -4,9 +4,16 @@
         <description><![CDATA[FIRE Blog Gallery]]></description>
         <link>http://fireblog.gallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Mar 2017 13:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2017 13:24:31 GMT</lastBuildDate>
         <atom:link href="http://fireblog.gallery/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Mar 2017 13:24:00 GMT</pubDate>
+        <pubDate>Sat, 04 Mar 2017 13:24:29 GMT</pubDate>
+        <item>
+            <title><![CDATA[I pledge allegiance to my stuff | bemorewithless.com]]></title>
+            <description><![CDATA[<article><h1>I pledge allegiance to my stuff | bemorewithless.com</h1><p>In this podcast episode on finances by The Minimalists, Joshua and Ryan discuss an article by Life Edited&apos;s David Friedlander called Minimalism: class, fetishes and the fate of the planet. In the article, he shares one of my favorite quotes: &quot;Stuff is not passive. Stuff wants your time, attention, allegiance.</p><img src="http://bemorewithless.com/wp-content/uploads/2017/02/stuffbruno.jpg"></article>]]></description>
+            <link>http://bemorewithless.com/allegiance/</link>
+            <guid isPermaLink="false">038e11dd-f5c6-4760-96d0-94ac30c9ba13</guid>
+            <pubDate>Sat, 04 Mar 2017 13:24:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An Ivy League professor who spent 4 months working in a South Bronx check-cashing store says we're getting it all wrong]]></title>
             <description><![CDATA[<article><h1>An Ivy League professor who spent 4 months working in a South Bronx check-cashing store says we&apos;re getting it all wrong</h1><p>University of Pennsylvania professor Lisa Servon went to work as a teller at a check-cashing store to find out why customers use the service. * Prevailing wisdom holds that customers would be better served by using a bank. But Servon found that check cashers were frequently cheaper and served customers&apos; needs better than banks.</p><img src="http://static1.businessinsider.com/image/589e2d8f3ad1d12f72e65853-1200-800/rtx2fdwj.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.donebyforty.com/2016/10/your-purchases-cant-buy-you-class.html</link>
             <guid isPermaLink="false">c00300b2-7b45-41ab-a8a6-8c961c41a2c8</guid>
             <pubDate>Mon, 28 Nov 2016 14:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Financial Loopholes In Your Brain (and How to Close Them) - Creative Money]]></title>
-            <description><![CDATA[<article><h1>Financial Loopholes In Your Brain &lpar;and How to Close Them&rpar; - Creative Money</h1><p>Financial habits are just as difficult for some people to make and break as any addiction or other bad habit&period; Yet others can change their habits quite quickly and effectively&period; Do those people just have more willpower&quest; Are they smarter&quest; Are they somehow than the rest of us&quest; I suspect not&period;</p><img src="http://creativemoney.biz/wp-content/uploads/2016/03/LargeBlog.png"></article>]]></description>
-            <link>http://creativemoney.biz/2016/03/financial_loopholes/</link>
-            <guid isPermaLink="false">c24a4407-ff95-48d2-96fb-6ead2f89e1db</guid>
-            <pubDate>Mon, 28 Nov 2016 03:11:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
