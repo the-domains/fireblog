@@ -4,9 +4,16 @@
         <description><![CDATA[FIRE Blog Gallery]]></description>
         <link>http://fireblog.gallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Feb 2017 00:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2017 13:24:01 GMT</lastBuildDate>
         <atom:link href="http://fireblog.gallery/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Feb 2017 00:23:36 GMT</pubDate>
+        <pubDate>Sat, 04 Mar 2017 13:24:00 GMT</pubDate>
+        <item>
+            <title><![CDATA[An Ivy League professor who spent 4 months working in a South Bronx check-cashing store says we're getting it all wrong]]></title>
+            <description><![CDATA[<article><h1>An Ivy League professor who spent 4 months working in a South Bronx check-cashing store says we&apos;re getting it all wrong</h1><p>University of Pennsylvania professor Lisa Servon went to work as a teller at a check-cashing store to find out why customers use the service. * Prevailing wisdom holds that customers would be better served by using a bank. But Servon found that check cashers were frequently cheaper and served customers&apos; needs better than banks.</p><img src="http://static1.businessinsider.com/image/589e2d8f3ad1d12f72e65853-1200-800/rtx2fdwj.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/check-cashing-stores-good-deal-upenn-professor-2017-2</link>
+            <guid isPermaLink="false">b00c84f7-940f-4efb-ac4e-fa0d265c8b38</guid>
+            <pubDate>Sat, 04 Mar 2017 13:23:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Extreme Ownership | Jocko Willink | TEDxUniversityofNevada]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fljqra3BcqWM%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dljqra3BcqWM&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fljqra3BcqWM%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>http://creativemoney.biz/2016/03/financial_loopholes/</link>
             <guid isPermaLink="false">c24a4407-ff95-48d2-96fb-6ead2f89e1db</guid>
             <pubDate>Mon, 28 Nov 2016 03:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Young, Broke, and Scared of the IRS: The Millennial Tax Trap]]></title>
-            <description><![CDATA[<article><h1>Young, Broke, and Scared of the IRS: The Millennial Tax Trap</h1><p>It wasn&apos;t a very nice way to begin a letter, but then, it was from the Internal Revenue Service, and it got Greg&apos;s attention. The Athens, Georgia, veteran said the notice, which arrived earlier this year, cited three months of taxes he had failed to pay two years ago-and was the first he&apos;d heard of it.</p><img src="http://assets.bwbx.io/images/iW2G7XslRU5M/v1/-1x-1.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-03-24/young-broke-and-scared-of-the-irs-the-millennial-tax-trap</link>
-            <guid isPermaLink="false">ff3e6809-5a36-46c1-9d84-d352ea6538fb</guid>
-            <pubDate>Mon, 28 Nov 2016 03:11:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
