@@ -4,9 +4,16 @@
         <description><![CDATA[FIRE Blog Gallery]]></description>
         <link>http://fireblog.gallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Mar 2017 18:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2017 18:35:25 GMT</lastBuildDate>
         <atom:link href="http://fireblog.gallery/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Mar 2017 18:35:07 GMT</pubDate>
+        <pubDate>Tue, 14 Mar 2017 18:35:11 GMT</pubDate>
+        <item>
+            <title><![CDATA[Yes, It's Possible to Save 50% of Your Income - Here's How]]></title>
+            <description><![CDATA[<article><h1>Yes, It&apos;s Possible to Save 50% of Your Income - Here&apos;s How</h1><p>It&apos;s one thing to set a goal to save half my income, but actually doing it is an entirely other story. Here&apos;s a (brutally honest) look at exactly how I&apos;ve managed to hit my savings goal over the past few months - because I&apos;ve been consistently hitting it every month since October.</p><img src="http://www.halfbanked.com/wp-content/uploads/2017/03/how-i-save-half-my-income.jpg"></article>]]></description>
+            <link>http://www.halfbanked.com/how-i-save-half-my-income/</link>
+            <guid isPermaLink="false">cb1287cd-fe2d-48b4-847d-afd6b3665aa0</guid>
+            <pubDate>Tue, 14 Mar 2017 18:35:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[22 Life Lessons I Learned From My Mentors That Every Person Should Know - Darius Foroux]]></title>
             <description><![CDATA[<article><h1>22 Life Lessons I Learned From My Mentors That Every Person Should Know - Darius Foroux</h1><p>With every conversation I have, book I read, mistake I make, and new knowledge I acquire, I feel less sure about everything. French philosopher Voltaire said it best: &quot;The more I read, the more I acquire, the more certain I am that I know nothing.&quot;</p><img src="http://dariusforoux.com/wp-content/uploads/2017/01/career-advice-from-mentors.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://shainemata.com/you-earn-more-in-your-free-time</link>
             <guid isPermaLink="false">06ebdfca-91fb-4f93-99d7-3dc0bbe4bde0</guid>
             <pubDate>Wed, 30 Nov 2016 02:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dad... What is Money?]]></title>
-            <description><![CDATA[<article><h1>Dad... What is Money?</h1><p>&quot;Dad, what is money?&quot; my 5-year-old son asked me on a bright summer afternoon as I sat in the yard. Catching me totally off guard from the daydream I was having about travelling</p><img src="http://familymoneyplan.com/wp-content/uploads/2016/02/image-2.png"></article>]]></description>
-            <link>http://familymoneyplan.com/dad-what-is-money/</link>
-            <guid isPermaLink="false">269bc56a-1a06-4254-ac37-98383a9c2f5d</guid>
-            <pubDate>Wed, 30 Nov 2016 02:31:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
