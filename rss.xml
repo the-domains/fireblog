@@ -4,9 +4,16 @@
         <description><![CDATA[FIRE Blog Gallery]]></description>
         <link>http://fireblog.gallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Apr 2017 21:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2017 00:53:05 GMT</lastBuildDate>
         <atom:link href="http://fireblog.gallery/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Apr 2017 21:59:42 GMT</pubDate>
+        <pubDate>Sun, 16 Apr 2017 00:52:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[What The F*ck Are We doing? - Brooklyn To Mars]]></title>
+            <description><![CDATA[<article><h1>What The F*ck Are We doing? - Brooklyn To Mars</h1><p>We go to the same place we went yesterday. We keep trying the same things. The same techniques. The same skill levels. Our focus is split amongst many things. We lack direction. A credit card bill comes in the mail. Something good is on Netflix. What was the dream we had once?</p><img src="https://cdn-images-1.medium.com/max/1200/1*QdANNgYnivCSz-pKXvfR9w.jpeg"></article>]]></description>
+            <link>https://brooklyntomars.com/what-the-f-ck-are-we-doing-a266b82fa338</link>
+            <guid isPermaLink="false">9d464e26-4307-4605-b0f0-47540a9f7932</guid>
+            <pubDate>Sun, 16 Apr 2017 00:52:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Compound Interest Isn't As Powerful As You Think]]></title>
             <description><![CDATA[<article><h1>Why Compound Interest Isn&apos;t As Powerful As You Think</h1><p>If you had to pick just one personal finance quote that everyone agrees on, what would it be? I would choose: &quot;Compound interest is the most powerful force in the universe.&quot; After all, who doesn&apos;t agree that we should save money, invest in the markets early, and put compound interest to work?</p><img src="http://cdn.investmentzen.com/wp-content/uploads/2016/05/compound-interest-is-the-most-powerful-force-in-the-universe_1000x600.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.halfbanked.com/how-i-save-half-my-income/</link>
             <guid isPermaLink="false">cb1287cd-fe2d-48b4-847d-afd6b3665aa0</guid>
             <pubDate>Tue, 14 Mar 2017 18:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[22 Life Lessons I Learned From My Mentors That Every Person Should Know - Darius Foroux]]></title>
-            <description><![CDATA[<article><h1>22 Life Lessons I Learned From My Mentors That Every Person Should Know - Darius Foroux</h1><p>With every conversation I have, book I read, mistake I make, and new knowledge I acquire, I feel less sure about everything. French philosopher Voltaire said it best: &quot;The more I read, the more I acquire, the more certain I am that I know nothing.&quot;</p><img src="http://dariusforoux.com/wp-content/uploads/2017/01/career-advice-from-mentors.jpg"></article>]]></description>
-            <link>http://dariusforoux.com/lessons-mentors/</link>
-            <guid isPermaLink="false">aa80dc38-d6eb-4de1-9aeb-f13b4bc30b8b</guid>
-            <pubDate>Tue, 14 Mar 2017 18:35:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
